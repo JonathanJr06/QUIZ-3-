@@ -1,1 +1,4 @@
-# QUIZ-3-
+# QUIZ-3-PBO
+
+PROGRAM SEDERHANA PYTHON
+input nama dan NIM
